@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 25px;
+    color: blue;
+    border-color: #e3e2e2;
+    background-color: #e3e2e2;
+
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+h2{
+    color: red;
+}
